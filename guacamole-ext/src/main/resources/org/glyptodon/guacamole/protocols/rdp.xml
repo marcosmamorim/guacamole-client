@@ -53,5 +53,6 @@
     <param name="remote-app-args" type="text" title="RemoteApp parameters"/>
 
     <param name="static-channels" type="text" title="Static channel names"/>
+    <param name="vmconnect" type="text" title="Virtual Machine ID"/>
 
 </protocol>
